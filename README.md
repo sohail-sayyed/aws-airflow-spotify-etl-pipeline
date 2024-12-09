@@ -60,9 +60,9 @@ This solution is ideal for developers seeking to build scalable ETL pipelines, m
 1. **Data Extraction:**
      - Use the Spotify Web API to fetch data.
      - Store raw JSON files in the S3 raw bucket.
-2 **Data Processing:**
-   - Transform JSON into parquet format for efficiency.
-   - Save to the S3 processed bucket.
+2.  **Data Processing:**
+      - Transform JSON into parquet format for efficiency.
+      - Save to the S3 processed bucket.
 3. **AWS Glue Crawling:**
      - Automatically discover schema for both raw and processed datasets.
 4. **Query Execution:**
