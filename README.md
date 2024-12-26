@@ -79,4 +79,5 @@ This solution is ideal for developers seeking to build scalable ETL pipelines, m
 
 - Author: Sohail Sayyed
 - Email:  ["**Gmail**"](jabmsohail@gmail.com)
+- LinkedIn: ["**LinkedIn**"](https://www.linkedin.com/in/sohailsayyed09/)
 - GitHub: ["**Github**"](https://github.com/Sohail-09)
